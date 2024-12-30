@@ -1,0 +1,7 @@
+{
+  "/api": {
+    "target": "https://localhost:7063", // Your .NET Core backend URL
+    "secure": false,
+    "changeOrigin": true
+  }
+}
